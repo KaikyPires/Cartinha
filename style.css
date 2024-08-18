@@ -57,7 +57,7 @@ body {
   position: absolute;
   border-radius: 0.7rem;
   border: 0.35rem solid #735c96;
-  background: linear-gradient(90deg, rgba(30,22,43,1) 0%, rgba(49,18,95,1) 50%, rgba(30,22,43,1) 100%);
+  background: linear-gradient(90deg, rgba(30,22,43,1) 0%, rgb(114, 39, 226) 50%, rgba(30,22,43,1) 100%);
   clip-path: polygon(100% 0%, 50% 70%, 0% 0%, 0% 100%, 100% 100%);
   z-index: 300;
 }
@@ -79,7 +79,7 @@ body {
   left: 0;
   position: relative;
   border-radius: 0.7rem;
-  background-color: rgb(99, 45, 185);
+  background-color: rgb(59, 19, 124);
   
   z-index: 400;
   clip-path: polygon(0% 0%, 100% 0%, 50% 81%);
