@@ -79,7 +79,7 @@ body {
   left: 0;
   position: relative;
   border-radius: 0.7rem;
-  background-color: rgb(112, 59, 198);
+  background-color: rgb(99, 45, 185);
   
   z-index: 400;
   clip-path: polygon(0% 0%, 100% 0%, 50% 81%);
@@ -223,4 +223,4 @@ body {
 
 .button-container button:hover {
   background-color: rgba(30,22,43,1); 
-}/* Cor de fundo verde mais escuro ao passar o
+}/* Cor de fundo verde mais escuro ao passar 
